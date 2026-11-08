@@ -1,0 +1,5 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn   # only for the learned-residual experiment (train_residual / res_eval.py)
